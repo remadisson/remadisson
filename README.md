@@ -3,8 +3,6 @@
 <!--
 **remadisson/remadisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+» I just started "Cuode", that will (hopefully) is a nice idea to invest time
+» I'm always learning new things, I just started JavaScript and it's fun
+» Fun fact: My english is not the yellow from the egg. (🤣 sorry)
+
+Here is one side project of mine: 
+  https://www.remadyreturns.de/
