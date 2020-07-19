@@ -14,9 +14,9 @@
 -->
 
 
-» I just started "Cuode", that will (hopefully) is a nice idea to invest time
-» I'm always learning new things, I just started JavaScript and it's fun
-» Fun fact: My english is not the yellow from the egg. (🤣 sorry)
-
-Here is one side project of mine: 
+» I just started "Cuode", that will (hopefully) is a nice idea to invest time </br>
+» I'm always learning new things, I just started JavaScript and it's fun </br>
+» Fun fact: My english is not the yellow from the egg. (🤣 sorry)</br>
+</br>
+Here is one side project of mine: </br>
   https://www.remadyreturns.de/
