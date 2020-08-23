@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 » I just started "Cuode", that (hopefully) is a nice idea to invest time </br>
-» I'm also organziing @rainbow-red (https://www.rainbow.red/) with a friend of mine. If you want to help, check it out! <br>
+» I'm also organizing @rainbow-red (https://www.rainbow.red/) with a friend of mine. If you want to help, check it out! <br>
 » I'm always learning new things, I just started JavaScript and it's fun (I hope i wont regret this..)</br>
 » Fun fact: My english is not the yellow from the egg. (🤣 sorry)</br>
 </br>
