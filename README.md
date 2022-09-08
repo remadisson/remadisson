@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 » I just started "Cuode", that (hopefully) is a nice idea to invest time </br>
 » I'm also organizing @rainbow-red (https://www.rainbow.red/) with a friend of mine. If you want to help, check it out! <br>
@@ -13,3 +13,4 @@ Here is one side project of mine: </br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=remadisson&show_icons=true">
 </p>-->
+-->
