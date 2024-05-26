@@ -1,14 +1,11 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/remadisson) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/remadisson) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/remadisson) 
+<hr/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=remadisson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=remadisson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=remadisson&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/macloers) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<center>
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=remadisson&theme=dark&hide_border=true&mode=weekly&card_width=350&card_height=110)](https://git.io/streak-stats) ![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=remadisson&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</center>
+
+<hr/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=moneyihave&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=a34fe8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  
